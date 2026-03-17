@@ -1,4 +1,5 @@
-"""Given an array of integers nums, return the index of the first element whose frequency is exactly k.
+"""Given an array of integers nums, return the index of the first element
+ whose frequency is exactly k.
 If no such element exists, return -1."""
 
 def returnind(nums,k):

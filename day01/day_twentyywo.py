@@ -1,4 +1,5 @@
-"""Given an array of integers and an integer k, find the maximum sum of any contiguous subarray of size k."""
+"""Given an array of integers and an integer k, find the maximum sum of any 
+contiguous subarray of size k."""
 
 def lomgestsubarr(arr,k):
     left = 0 

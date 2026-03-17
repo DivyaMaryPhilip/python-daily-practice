@@ -1,4 +1,5 @@
-"""Given an array of integers nums, return the first number that appears only once, preserving the original order.
+"""Given an array of integers nums, return the first number that appears only once,
+preserving the original order.
 If no such number exists, return -1
 """
 

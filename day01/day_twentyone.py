@@ -1,4 +1,5 @@
-"""Given a string s and an integer k, return the longest substring that can be obtained by replacing 
+"""Given a string s and an integer k, return the longest substring that can be 
+obtained by replacing 
 at most k characters such that all characters in the substring are the same."""
 
 def longestsubstr(s,k):

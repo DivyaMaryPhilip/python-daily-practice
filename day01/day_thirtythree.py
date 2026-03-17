@@ -49,7 +49,6 @@ def large_rect_stack(arr):
             max_area = max(area,max_area)
 
 
-
 if __name__ == "__main__":
     arr = [2,1,5,6,2,3]
     large_rectangle(arr)

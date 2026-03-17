@@ -1,4 +1,5 @@
-"""Given a string s and an integer k, find the length of the longest substring that contains at most k distinct characters."""
+"""Given a string s and an integer k, find the length of the longest substring 
+that contains at most k distinct characters."""
 
 def len_longsubstr_k(s,k):
     left = 0
